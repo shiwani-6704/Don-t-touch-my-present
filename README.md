@@ -7,27 +7,9 @@ This [game was made in 3 days](https://www.youtube.com/watch?v=H09PmP5tsy8) with
 
 ![](https://img.itch.zone/aW1hZ2UvMTgyNzExMi8xMDcyNTIzOS5naWY=/347x500/1OA7GI.gif)
 
-## How to Play
 
-* Use the arrow keys your maneuver your hand out of the way.
 
-## Installation
 
-### Windows
-
-Open Command Prompt and run the following:
-
-```sh
-pip install pygame
-```
-
-### Mac
-
-Open Terminal and run the following:
-
-```sh
-pip3 install pygame
-```
 
 # Problem Statement
 
