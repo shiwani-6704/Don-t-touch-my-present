@@ -16,11 +16,3 @@ The objective of this project is to develop an engaging and addictive game title
 4. Compete with friends and family to see who can achieve the highest score!
 
 
-## Help development
-
-You are welcome to submit pull requests, issues, and more! Here are some suggestions:
-
-* Bug fixes
-* Optimizations
-* New game modes  
-
