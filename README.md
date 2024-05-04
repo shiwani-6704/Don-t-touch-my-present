@@ -29,25 +29,17 @@ Open Terminal and run the following:
 pip3 install pygame
 ```
 
-### Linux
+# Problem Statement
 
-Debian / Ubuntu
+The objective of this project is to develop an engaging and addictive game titled "Don't Touch My Present!" The game is a fast-paced action arcade where players control a hand holding a precious present while navigating through a hazardous environment filled with obstacles.
 
-```sh
-sudo apt-get install python3-pygame
-```
+## How to Play!!
 
-Arch
+1. Use the left and right arrow keys (or on-screen buttons for mobile) to move the hand.
+2. Avoid touching any obstacles to keep the present safe.
+3. The game ends when the present collides with an obstacle.
+4. Compete with friends and family to see who can achieve the highest score!
 
-```sh
-sudo pacman -S python-pygame
-```
-
-Fedora
-
-```sh
-sudo dnf install python3-pygame
-```
 
 ## Help development
 
